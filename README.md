@@ -6,4 +6,4 @@ This repository includes the JS code I used for Observable, the link to my Spell
 ## Link to The Solver and My Tutorial
 Spelling Bee Solution Tool: [Spelling Bee](https://jacehiga.pages.dev/spellingbeesolver)
 
-Slides Link: [Slides](https://youtu.be/CkrZXnwQGi8)
+Youtube Video Explanation: [Video](https://youtu.be/CkrZXnwQGi8)
