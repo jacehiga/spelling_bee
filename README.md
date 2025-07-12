@@ -5,6 +5,7 @@ This repository includes the JS code I used for Observable, the link to my Spell
 
 ## Link to The Solver and My Tutorial
 Spelling Bee Solution Tool: [Spelling Bee](https://307421ae.jacehiga.pages.dev/)
+
 Be sure to use lowercase letters, seperated by commas with the middle letter coming first.
 
 Youtube Video Explanation: [Video](https://youtu.be/CkrZXnwQGi8)
